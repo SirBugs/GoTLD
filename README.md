@@ -4,7 +4,7 @@ GoTLD is a importable module to split domain names parts
 
 **Note:** You can import by `GoTLD "GoTld"` or `"GoTld"`
 **Note:** By depending on: https://pkg.go.dev/golang.org/x/net/publicsuffix
-
+**Note: Go Version: 1.18** 
 ### Installation (Linux, Mac)
 ```
 go get github.com/SirBugs/GoTLD
