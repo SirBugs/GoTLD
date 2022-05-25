@@ -50,6 +50,7 @@ https
 
 ### What Can I Get?:
 - **Outputs**
+  - For getting Full Link/Domain: **Full, full, FULL**
   - For getting ssl use: **SSL, ssl, Ssl**
   - For getting subdomain use: **Sub, sub, SUB, Subdomain, SUBDOMAIN, SubDomain, subdomain**
   - For getting domainname use: **Name, name, NAME, Domain, domain, DOMAIN, DomainName, DOMAINNAME, domainname**
