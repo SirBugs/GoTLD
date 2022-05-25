@@ -1,4 +1,4 @@
-module github.com/sirbugs/GoTLD
+module github.com/SirBugs/GoTLD
 
 go 1.18
 
