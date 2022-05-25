@@ -15,7 +15,7 @@ Download file directly to C://Program Files/Go/Src/
 ```
 
 ### Usage1 (Return)
-```
+```go
 package main
 
 import (
