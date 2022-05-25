@@ -55,9 +55,6 @@ https
   - For getting domainname use: **Name, name, NAME, Domain, domain, DOMAIN, DomainName, DOMAINNAME, domainname**
   - For getting tld use: **TLD, Tld, tld**
 
-### Contact
-**Facebook: SirBugs**
-
 ### LICENSE
 Copyright © 2022 SirBugs
 
