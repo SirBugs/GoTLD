@@ -7,11 +7,10 @@ GoTLD is a importable module to split domain names parts
 
 **Note: Go Version: 1.18**
 
-### Installation (Linux, Mac)
+### Installation (Linux, Mac, Windows)
 ```
 go get github.com/SirBugs/GoTLD
 ```
-### Installation (Windows)
 ```
 Download file directly to C://Program Files/Go/Src/
 ```
