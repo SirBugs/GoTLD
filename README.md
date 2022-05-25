@@ -19,7 +19,8 @@ Download file directly to C://Program Files/Go/Src/
 package main
 
 import (
-	GoTLD "GoTLD"
+	// GoTLD "GoTLD"
+	GoTLD "github.com/SirBugs/GoTLD"
 	"fmt"
 )
 
