@@ -47,9 +47,9 @@ https
 ```
 
 ### What Can I Get?:
-- Outputs
-  - For getting ssl use: "SSL", "ssl", "Ssl"
-  - For getting subdomain use: "Sub", "sub", "SUB", "Subdomain", "SUBDOMAIN", "SubDomain", "subdomain"
-  - For getting domainname use: "Name", "name", "NAME", "Domain", "domain", "DOMAIN", "DomainName", "DOMAINNAME", "domainname"
-  - For getting tld use: "TLD", "Tld", "tld"
+- **Outputs**
+  - For getting ssl use: **SSL, ssl, Ssl**
+  - For getting subdomain use: **Sub, sub, SUB, Subdomain, SUBDOMAIN, SubDomain, subdomain**
+  - For getting domainname use: **Name, name, NAME, Domain, domain, DOMAIN, DomainName, DOMAINNAME, domainname**
+  - For getting tld use: **TLD, Tld, tld**
 
